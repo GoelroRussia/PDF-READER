@@ -1,0 +1,6 @@
+{
+  "name": "Smart PDF Reader & Translator",
+  "description": "An interactive PDF reader that lets you highlight regions and uses Gemini AI to instantly translate or summarize the selected content in Vietnamese.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
